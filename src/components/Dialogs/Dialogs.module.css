@@ -1,0 +1,25 @@
+.dialogs {
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.dialogs__col{
+    width: 50%;
+    padding-top: 20px;
+}
+
+.dialogs__list {
+    padding-left: 20px;
+}
+
+.dialogs__list .active{
+    color: #4538FF;
+}
+
+.textarea{
+    resize: none;
+    height: 70px;
+    width: 200px;
+    display: block;
+}

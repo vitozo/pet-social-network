@@ -1,0 +1,33 @@
+.nav {
+    width: 12.5rem;
+    height: 33rem;
+    background: linear-gradient(to bottom right, #BB48FD, #4538FF);
+}
+
+.item{
+    padding-left: 20px;
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+.link{
+    color: #fff;
+    text-decoration: none;
+    /* transition: all 1s ; */
+}
+
+.navfriends{
+    color: #fff;
+    text-decoration: none;
+}
+
+.link:hover{
+    /* text-decoration: underline; */
+    font-size: 1.6rem;
+    transform: scale(1.2);
+    transition: .2s;
+}
+
+.activeLink{
+    color: #E651F9;
+}

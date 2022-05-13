@@ -1,0 +1,15 @@
+.friendsItem{
+    text-align: center;
+    text-align: -webkit-center;
+}
+
+.image{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    background: #999;
+}
+
+.name{
+    font-size: 14px;
+}

@@ -1,0 +1,39 @@
+.users{
+    width: 100%;
+}
+
+.usersItem{
+    display: flex;
+    justify-content: space-around;
+}
+
+.columnLeft{
+    display: flex;
+    flex-direction: column;
+}
+
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 10px 0;
+}
+
+.columnRight{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.selectedPage{
+    font-weight: bold;
+}
+
+div span{
+    cursor: pointer;
+}
+
+
+
+
+

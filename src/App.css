@@ -1,0 +1,32 @@
+/* http://preview.themeforest.net/item/kleo-pro-community-focused-multipurpose-buddypress-theme/full_screen_preview/6776630 */
+
+body{
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+img{
+  width: 100%;
+}
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 97%;
+}
+
+
+.main{
+  display: flex;
+}
+
+
+
