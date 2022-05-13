@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pet-social-network/static/css/main.e814c9c8.css",
-    "main.js": "/pet-social-network/static/js/main.c748c3a4.js",
+    "main.js": "/pet-social-network/static/js/main.2ec5e024.js",
     "static/css/469.b82e17a2.chunk.css": "/pet-social-network/static/css/469.b82e17a2.chunk.css",
     "static/js/469.1d8d4ef2.chunk.js": "/pet-social-network/static/js/469.1d8d4ef2.chunk.js",
     "static/css/517.db9cabc5.chunk.css": "/pet-social-network/static/css/517.db9cabc5.chunk.css",
@@ -11,7 +11,7 @@
     "static/media/Preloader.svg": "/pet-social-network/static/media/Preloader.86e365cf83a915f4cbe173badc20fd27.svg",
     "index.html": "/pet-social-network/index.html",
     "main.e814c9c8.css.map": "/pet-social-network/static/css/main.e814c9c8.css.map",
-    "main.c748c3a4.js.map": "/pet-social-network/static/js/main.c748c3a4.js.map",
+    "main.2ec5e024.js.map": "/pet-social-network/static/js/main.2ec5e024.js.map",
     "469.b82e17a2.chunk.css.map": "/pet-social-network/static/css/469.b82e17a2.chunk.css.map",
     "469.1d8d4ef2.chunk.js.map": "/pet-social-network/static/js/469.1d8d4ef2.chunk.js.map",
     "517.db9cabc5.chunk.css.map": "/pet-social-network/static/css/517.db9cabc5.chunk.css.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.e814c9c8.css",
-    "static/js/main.c748c3a4.js"
+    "static/js/main.2ec5e024.js"
   ]
 }
